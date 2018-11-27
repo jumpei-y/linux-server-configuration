@@ -45,6 +45,11 @@
 
   sudo apt-get upgrade  
   ```
+  if you can be updated any package type below command
+  
+  ```
+  sudo apt-get dist-upgrade
+  ```
 
 
 2. Change SSH Port Number
@@ -422,5 +427,23 @@ on your local machine:
   ```
   http://13.115.75.69
   ```
-
   that's it.
+  
+### Third Party Resources
+  ```
+  python-setuptools
+  libapache2-mod-wsgi
+  apache2
+  python-pip
+  Flask
+  postgresSQL
+  git
+  requests
+  flask
+  httplib2 
+  oauth2client 
+  sqlalchemy 
+  psycopg2
+  sqlalchemy_utils
+  ```
+
